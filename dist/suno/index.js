@@ -82,7 +82,7 @@ async function getLyric(musicItem) {
 module.exports = {
     platform: "suno",
     version: "0.0.0",
-    srcUrl: "https://gitee.com/maotoumao/MusicFreePlugins/raw/v0.1/dist/suno/index.js",
+    srcUrl: "https://raw.githubusercontent.com/teslaai126/musicplugins/refs/heads/main/dist/suno/index.js",
     cacheControl: "no-cache",
     getTopLists,
     getTopListDetail,
