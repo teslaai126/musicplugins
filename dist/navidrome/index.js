@@ -86,7 +86,7 @@ module.exports = {
     version: "0.0.0",
     author: '猫头猫',
     appVersion: ">0.1.0-alpha.0",
-    srcUrl: "https://raw.githubusercontent.com/teslaai126/musicplugins/refs/heads/main/dist/navidrome/index.js",
+    srcUrl: "https://gitee.com/teslamusic/musicplugins/raw/main/dist/navidrome/index.js",
     cacheControl: "no-cache",
     userVariables: [
         {

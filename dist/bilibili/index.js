@@ -546,7 +546,7 @@ module.exports = {
     version: "0.2.2",
     author: "猫头猫",
     cacheControl: "no-cache",
-    srcUrl: "https://raw.githubusercontent.com/teslaai126/musicplugins/refs/heads/main/dist/bilibili/index.js",
+    srcUrl: "https://gitee.com/teslamusic/musicplugins/raw/main/dist/bilibili/index.js",
     primaryKey: ["id", "aid", "bvid", "cid"],
     hints: {
         importMusicSheet: [

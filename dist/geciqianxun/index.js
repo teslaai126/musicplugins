@@ -41,7 +41,7 @@ async function getLyric(musicItem) {
 module.exports = {
     platform: "歌词千寻",
     version: "0.0.0",
-    srcUrl: 'https://raw.githubusercontent.com/teslaai126/musicplugins/refs/heads/main/dist/geciqianxun/index.js',
+    srcUrl: 'https://gitee.com/teslamusic/musicplugins/raw/main/dist/geciqianxun/index.js',
     cacheControl: "no-store",
     supportedSearchType: ['lyric'],
     search,

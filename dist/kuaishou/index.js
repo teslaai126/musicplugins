@@ -152,7 +152,7 @@ module.exports = {
     platform: "快手",
     version: "0.0.2",
     author: '猫头猫',
-    srcUrl: "https://raw.githubusercontent.com/teslaai126/musicplugins/refs/heads/main/dist/kuaishou/index.js",
+    srcUrl: "https://gitee.com/teslamusic/musicplugins/raw/main/dist/kuaishou/index.js",
     cacheControl: "no-cache",
     supportedSearchType: ["music"],
     async search(query, page, type) {

@@ -448,7 +448,7 @@ module.exports = {
     version: "0.0.2",
     author: '猫头猫',
     primaryKey: ["id", "url_slug"],
-    srcUrl: "https://raw.githubusercontent.com/teslaai126/musicplugins/refs/heads/main/dist/audiomack/index.js",
+    srcUrl: "https://gitee.com/teslamusic/musicplugins/raw/main/dist/audiomack/index.js",
     cacheControl: "no-cache",
     supportedSearchType: ['music', 'album', 'sheet', 'artist'],
     async search(query, page, type) {

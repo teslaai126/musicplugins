@@ -189,7 +189,7 @@ module.exports = {
     author: '猫头猫',
     version: "0.0.1",
     supportedSearchType: ["music"],
-    srcUrl: "https://raw.githubusercontent.com/teslaai126/musicplugins/refs/heads/main/dist/youtube/index.js",
+    srcUrl: "https://gitee.com/teslamusic/musicplugins/raw/main/dist/youtube/index.js",
     cacheControl: "no-cache",
     search,
     getMediaSource,
